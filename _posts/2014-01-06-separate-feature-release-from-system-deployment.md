@@ -9,9 +9,9 @@ tags: [continuous deplivery, deployment, release, feature toggle]
 
 ## Problem
 
-Release is a painful activity in some software projects. Business needs some features on a particular date. When they asked the development team for them, development team often prepares a tested system package containing the features and deploys that package to the production environment on the due date. 
+I saw software release is a painful activity in some projects. 
 
-This approach often faces several challenges:
+Business needs some features on a particular date. When they asked the development team for them, development team prepares a tested system package containing the features and deploys that package to the production environment on the due date. But in this way the development team will face several challenges:
 
 *  Preparing the package with the right feature set on the right date. 
 
